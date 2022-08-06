@@ -23,10 +23,10 @@ Add the Rust's target to WA (WebAssembly)
 rustup target add wasm32-unknown-unknown
 ```
 
-Init Rust front-end
+Init new project
 
 ```zsh
-cargo new RustFrontEnd
+cargo new yew_video_steaming
 ```
 
 Run app locally

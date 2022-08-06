@@ -1,5 +1,5 @@
 [package]
-name = "yew-video-steaming"
+name = "yew_video_steaming"
 version = "0.1.0"
 edition = "2021"
 
